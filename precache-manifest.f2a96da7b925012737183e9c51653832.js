@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/exquisite-react/static/js/runtime~main.5c40684f.js"
   },
   {
-    "revision": "adb8fcaf7c84f0dc4db0",
-    "url": "/exquisite-react/static/js/main.adb8fcaf.chunk.js"
+    "revision": "486919cd172a1bccd99c",
+    "url": "/exquisite-react/static/js/main.486919cd.chunk.js"
   },
   {
     "revision": "2818dbc80ba3c939eefa",
     "url": "/exquisite-react/static/js/1.2818dbc8.chunk.js"
   },
   {
-    "revision": "adb8fcaf7c84f0dc4db0",
+    "revision": "486919cd172a1bccd99c",
     "url": "/exquisite-react/static/css/main.1d40b3e9.chunk.css"
   },
   {
-    "revision": "93dea44205b935c3a7227c822be33c2d",
+    "revision": "dfc2bad511bce048212346bb536ff4d6",
     "url": "/exquisite-react/index.html"
   }
 ];
