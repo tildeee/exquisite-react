@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/exquisite-react/static/css/main.1d40b3e9.chunk.css"
   },
   {
-    "revision": "dfc2bad511bce048212346bb536ff4d6",
+    "revision": "127c60836bf8346cc3c110f98e2e49f2",
     "url": "/exquisite-react/index.html"
   }
 ];
